@@ -3,6 +3,9 @@ Custom-built defensive / blue-team bash script to monitor and analyze logs on Li
 
 **To Do:**
 Upload logconfluence.sh
-\n
+
+
 Upload configuration as a service
+
+
 Upload Ansible playbook
